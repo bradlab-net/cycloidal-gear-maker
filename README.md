@@ -17,3 +17,5 @@ Here's the wiki: https://en.wikipedia.org/wiki/Cycloidal_drive
 ![Go to media folder](media/calculated_values.jpg)
 
 ### Credit to mawildoer for original script (https://github.com/mawildoer/cycloidal_generator)
+
+ROBOT,ACTUATOR,GEAR,3D,PRINT,FUSION,360,FUSION360,ADD-IN,ADDIN
